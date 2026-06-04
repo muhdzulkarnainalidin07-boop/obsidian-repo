@@ -1,4 +1,9 @@
 [
   "calendar",
-  "github-sync"
+  "github-sync",
+  "ink",
+  "tasknotes",
+  "obsidian-latex-suite",
+  "obsidian-style-settings",
+  "terminal"
 ]

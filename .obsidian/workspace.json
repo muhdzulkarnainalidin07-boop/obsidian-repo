@@ -8,17 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed5e41d91f7f0054",
+            "id": "c4076a02ffb2eca4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni.md",
+                "file": "Planner/Physics Study/2026-06-04.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uni"
+              "title": "2026-06-04"
+            }
+          },
+          {
+            "id": "aebe37d8c1245fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics related shenanigans/Kinematics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kinematics"
+            }
+          },
+          {
+            "id": "d7dc4a24a8287dd7",
+            "type": "leaf",
+            "state": {
+              "type": "tasknotes-pomodoro-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasknotes-pomodoro-view"
             }
           }
         ]
@@ -119,7 +143,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -181,7 +205,8 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "9f9aec4b6b153314",
@@ -214,27 +239,54 @@
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "workspaces:Manage workspace layouts": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "57a4994635cd06ea",
+  "active": "d2c11fca6df19629",
   "lastOpenFiles": [
-    "Uni.md",
-    "Main Units/PHY10001 Energy and Motion.md",
-    "Physics related shenanigans/Simple Harmonic Motion.md",
-    "Main Units",
-    "Physics related shenanigans",
-    "2026-06-03.md",
-    "Physics related shenanigans/Transverse Waves.md",
-    "Physics related shenanigans/Kinetic Theory.md",
-    "Physics related shenanigans/Fluids.md",
-    "Physics related shenanigans/Rotational Motion.md",
-    "Physics related shenanigans/Forces.md",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "Planner/Physics Study/2026-06-04.md",
     "Physics related shenanigans/Kinematics.md",
+    "Planner/Physics Study/2026-06-05.md",
     "Physics related shenanigans/Energy.md",
-    "Physics related shenanigans/Momentum.md",
-    "Physics related shenanigans/Thermodynamics.md",
-    "create a link.md",
-    "Welcome.md"
+    "Linear Algebra related shenanigans/Lines_and_Planes.md",
+    "Linear Algebra related shenanigans/Vectors.md",
+    "Linear Algebra related shenanigans/Complex_Numbers.md",
+    "Linear Algebra related shenanigans/test format/Vectors.md",
+    "Linear Algebra related shenanigans/test format/Matrices.md",
+    "Linear Algebra related shenanigans/test format/Lines_and_Planes.md",
+    "Linear Algebra related shenanigans/test format/Linear_Transformations.md",
+    "Linear Algebra related shenanigans/test format/Curvilinear_Coordinates.md",
+    "Linear Algebra related shenanigans/test format/Complex_Numbers.md",
+    "Linear Algebra related shenanigans/test format",
+    "Linear Algebra related shenanigans/New folder",
+    "TaskNotes/Tasks/kau gay.md",
+    "TaskNotes/Tasks",
+    "Physics related shenanigans/Forces.md",
+    "Planner/Physics Study/Physics and Math Study.md",
+    "Uni.md",
+    "Study Notes/Physics CRAM.md",
+    "Study_Schedule.md",
+    "Linear Algebra related shenanigans/Matrices.md",
+    "a,b],[c,d.md",
+    "Linear Algebra related shenanigans/Linear_Transformations.md",
+    "−1, 0], [0, 1.md",
+    "Main Units/MTH10013 Linear Algebra and Applications.md",
+    "Main Units/PHY10001 Energy and Motion.md"
   ]
 }
