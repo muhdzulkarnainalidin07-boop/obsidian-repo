@@ -485,10 +485,22 @@
   "enableDebugLogging": false,
   "pomodoroState": {
     "isRunning": false,
-    "timeRemaining": 1500,
-    "nextSessionType": "work"
+    "timeRemaining": 1770,
+    "currentSession": {
+      "id": "1780752197783",
+      "startTime": "2026-06-06T21:23:17.783+08:00",
+      "plannedDuration": 30,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T21:23:17.783+08:00",
+          "endTime": "2026-06-06T21:23:47.883+08:00"
+        }
+      ]
+    }
   },
-  "lastPomodoroDate": "2026-06-03",
+  "lastPomodoroDate": "2026-06-05",
   "googleCalendarSyncQueue": [
     {
       "taskPath": "TaskNotes/Tasks/kau gay.md",
@@ -583,6 +595,224 @@
         {
           "startTime": "2026-06-04T23:22:34.176+08:00",
           "endTime": "2026-06-04T23:27:34.176+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780660852481",
+      "startTime": "2026-06-05T20:00:52.481+08:00",
+      "endTime": "2026-06-05T20:25:52.481+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-05T20:00:52.481+08:00",
+          "endTime": "2026-06-05T20:25:52.481+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780662353687",
+      "startTime": "2026-06-05T20:25:53.686+08:00",
+      "endTime": "2026-06-05T20:30:53.686+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-05T20:25:53.686+08:00",
+          "endTime": "2026-06-05T20:30:53.686+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780663388005",
+      "startTime": "2026-06-05T20:43:08.005+08:00",
+      "endTime": "2026-06-05T21:08:08.005+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-05T20:43:08.005+08:00",
+          "endTime": "2026-06-05T21:08:08.005+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780664889104",
+      "startTime": "2026-06-05T21:08:09.104+08:00",
+      "endTime": "2026-06-05T21:13:09.104+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-05T21:08:09.104+08:00",
+          "endTime": "2026-06-05T21:13:09.104+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780734368091",
+      "startTime": "2026-06-06T16:26:08.091+08:00",
+      "endTime": "2026-06-06T16:51:08.091+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T16:26:08.091+08:00",
+          "endTime": "2026-06-06T16:51:08.091+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780735869191",
+      "startTime": "2026-06-06T16:51:09.191+08:00",
+      "endTime": "2026-06-06T17:00:09.191+08:00",
+      "plannedDuration": 9,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T16:51:09.191+08:00",
+          "endTime": "2026-06-06T17:00:09.191+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780736434644",
+      "startTime": "2026-06-06T17:00:34.644+08:00",
+      "endTime": "2026-06-06T17:25:34.644+08:00",
+      "plannedDuration": 25,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T17:00:34.644+08:00",
+          "endTime": "2026-06-06T17:25:34.644+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780737935744",
+      "startTime": "2026-06-06T17:25:35.744+08:00",
+      "endTime": "2026-06-06T17:30:35.744+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T17:25:35.744+08:00",
+          "endTime": "2026-06-06T17:30:35.744+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780738558316",
+      "startTime": "2026-06-06T17:35:58.316+08:00",
+      "endTime": "2026-06-06T18:05:59.316+08:00",
+      "plannedDuration": 30.016666666666666,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T17:35:58.316+08:00",
+          "endTime": "2026-06-06T18:05:59.316+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780740360411",
+      "startTime": "2026-06-06T18:06:00.411+08:00",
+      "endTime": "2026-06-06T18:11:00.411+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T18:06:00.411+08:00",
+          "endTime": "2026-06-06T18:11:00.411+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780744031117",
+      "startTime": "2026-06-06T19:07:11.117+08:00",
+      "endTime": "2026-06-06T19:35:53.238+08:00",
+      "plannedDuration": 35,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T19:07:11.117+08:00",
+          "endTime": "2026-06-06T19:35:52.601+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780745761570",
+      "startTime": "2026-06-06T19:36:01.570+08:00",
+      "endTime": "2026-06-06T19:41:01.570+08:00",
+      "plannedDuration": 5,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T19:36:01.570+08:00",
+          "endTime": "2026-06-06T19:41:01.570+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780746062675",
+      "startTime": "2026-06-06T19:41:02.675+08:00",
+      "endTime": "2026-06-06T19:56:02.675+08:00",
+      "plannedDuration": 15,
+      "type": "long-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T19:41:02.675+08:00",
+          "endTime": "2026-06-06T19:56:02.675+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780747552506",
+      "startTime": "2026-06-06T20:05:52.506+08:00",
+      "endTime": "2026-06-06T21:16:29.970+08:00",
+      "plannedDuration": 35,
+      "type": "work",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T20:05:52.506+08:00",
+          "endTime": "2026-06-06T20:06:39.191+08:00"
+        },
+        {
+          "startTime": "2026-06-06T20:22:44.295+08:00",
+          "endTime": "2026-06-06T20:33:49.798+08:00"
+        },
+        {
+          "startTime": "2026-06-06T20:53:22.158+08:00",
+          "endTime": "2026-06-06T21:16:29.970+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1780751792260",
+      "startTime": "2026-06-06T21:16:32.260+08:00",
+      "endTime": "2026-06-06T21:21:32.260+08:00",
+      "plannedDuration": 5,
+      "type": "short-break",
+      "completed": true,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T21:16:32.260+08:00",
+          "endTime": "2026-06-06T21:21:32.260+08:00"
         }
       ]
     }
