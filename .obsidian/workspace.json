@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e73ae69d1ce098e5",
+            "id": "f771990b3fd3fc2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Algebra related shenanigans/Curvilinear_Coordinates.md",
+                "file": "003 Pool/Dashboard.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curvilinear_Coordinates"
+              "title": "Dashboard"
             }
           },
           {
-            "id": "aebe37d8c1245fda",
+            "id": "4266073f3d4f6320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thoughts dump/Thoughts that need dumping.md",
+                "file": "004 Thoughts dump/Thoughts that need dumping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Thoughts that need dumping"
             }
+          },
+          {
+            "id": "a4ed4086ad699ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lonely.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lonely"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -47,7 +62,7 @@
       {
         "id": "05ab4fd050e003c6",
         "type": "tabs",
-        "dimension": 45.70048309178744,
+        "dimension": 66.88741721854304,
         "children": [
           {
             "id": "87302625032567e0",
@@ -68,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#pool",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,26 +107,9 @@
         ]
       },
       {
-        "id": "a9aee1b2ba789968",
-        "type": "tabs",
-        "dimension": 34.97584541062802,
-        "children": [
-          {
-            "id": "d7dc4a24a8287dd7",
-            "type": "leaf",
-            "state": {
-              "type": "tasknotes-pomodoro-view",
-              "state": {},
-              "icon": "clock",
-              "title": "Pomodoro"
-            }
-          }
-        ]
-      },
-      {
         "id": "c3444eef2dbd1249",
         "type": "tabs",
-        "dimension": 19.32367149758454,
+        "dimension": 33.11258278145696,
         "children": [
           {
             "id": "57a4994635cd06ea",
@@ -144,8 +142,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Lonely.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -153,7 +152,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Lonely"
             }
           },
           {
@@ -162,11 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lonely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Lonely"
             }
           },
           {
@@ -204,12 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lonely.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lonely"
             }
           }
         ],
@@ -234,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,46 +256,50 @@
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
       "tasknotes:Create new task": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "57a4994635cd06ea",
+  "active": "a4ed4086ad699ae7",
   "lastOpenFiles": [
-    "Linear Algebra related shenanigans/Curvilinear_Coordinates.md",
-    "Linear Algebra related shenanigans/Complex_Numbers.md",
-    "Planner/newly revised study plan/SAT.md",
-    "Thoughts dump/Thoughts that need dumping.md",
-    "Planner/newly revised study plan/MON.md",
-    "Planner/newly revised study plan/SUN.md",
-    "Thought dumb/Thoughts that need dumping.md",
-    "Thoughts dump",
-    "Thought dumb",
-    "Physics related shenanigans/Kinematics.md",
-    "Planner/newly revised study plan/TUE.md",
-    "Planner/newly revised study plan/yeet/SAT.md",
-    "Planner/newly revised study plan/yeet/MON.md",
-    "Planner/newly revised study plan/yeet/TUE.md",
-    "Planner/newly revised study plan/yeet/SUN.md",
-    "Planner/newly revised study plan/2026-06-07.md",
-    "Planner/newly revised study plan/2026-06-08.md",
-    "Planner/newly revised study plan/2026-06-06.md",
-    "Planner/newly revised study plan/yeet/gemini-code-1780729893669.md",
-    "Planner/newly revised study plan/2026-06-05.md",
-    "Planner/newly revised study plan/gemini-code-1780728371106.md",
-    "Planner/newly revised study plan/yeet/gemini-code-1780729903032.md",
-    "Planner/newly revised study plan/yeet/gemini-code-1780729898545.md",
-    "Planner/newly revised study plan/yeet/gemini-code-1780729888969.md",
-    "Planner/newly revised study plan/yeet",
-    "Planner/newly revised study plan/New folder",
-    "Planner/newly revised study plan/gemini-code-1780729903032.md",
-    "Planner/newly revised study plan/gemini-code-1780729898545.md",
-    "Planner/newly revised study plan/gemini-code-1780729893669.md",
-    "Planner/newly revised study plan/gemini-code-1780729888969.md",
-    "Planner/newly revised study plan",
-    "Planner/New folder",
+    "Lonely.md",
+    "004 Thoughts dump/Thoughts that need dumping.md",
+    "003 Pool/01 Sessions/2026-06-10 Session.md",
+    "003 Pool/02 Reviews/2026-24 Session.md",
+    "003 Pool/001 Dashboard.md",
+    "003 Pool/999 Meta/Drill Library.md",
+    "Untitled.canvas",
+    "TaskNotes/Views/kanban-default.base",
+    "Untitled.base",
+    "002 Planner/1. Pool with Juseng and Justin.md",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "2026-06-10.md",
+    "002 Planner/2026-06-11.md",
+    "Planner/2026-06-11.md",
+    "Planner/2026-06-10.md",
+    "Planner",
+    "001 Uni/Uni.md",
+    "001 Uni/Main Units/MTH10013 Linear Algebra and Applications.md",
+    "001 Uni/Main Units/PHY10001 Energy and Motion.md",
+    "003 Pool/999 Templates/Weekly Review Template.md",
+    "003 Pool/999 Templates/Session Template.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base"
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views",
+    "003 Pool/999 Meta/Setup Guide.md",
+    "003 Pool/Reviews/2026-06-10 Session.md",
+    "Pool/Reviews/YYYY-WW Review.md",
+    "003 Pool/Sessions/2026-06-07 Session.md",
+    "999 templates/Template.md",
+    "Canon APS-C Lenses.md",
+    "005 TaskNotes/Tasks/Submit Design.md",
+    "999 templates/Daily Planner.md",
+    "999 templates/Weekly daily planner.md"
   ]
 }

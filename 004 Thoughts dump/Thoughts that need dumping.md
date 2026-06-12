@@ -1,0 +1,7 @@
+- How to Deadlift like PANA
+- How to get a GF if climbing gym situation
+- scream aim fire
+- clean room after exams
+- question my future with a partner
+- should prolly make something to ground myself to the reality of not getting a girlfriend any time soon
+- 

@@ -1,0 +1,43 @@
+---
+date: {{date:YYYY-MM-DD}}
+day: {{date:dddd}}
+tags:
+  - daily-log
+---
+
+# 📅 {{date:YYYY-MM-DD}} | {{date:dddd}}
+
+## 🎯 THE RULE OF 3 (The Anchor)
+> *The only three things that matter today. Clear these, and the day is a win. Ignore the rest.*
+- [ ] 1. 
+- [ ] 2. 
+- [ ] 3. 
+
+---
+
+## 📥 THE INBOX (Zero-Friction ADHD Dump)
+> *Put everything here immediately. No formatting, no thinking. Empty your working memory so you can focus.*
+- 
+
+---
+
+## 🛠️ MECHANICS LOG (Pragmatic Data Only)
+> *No feelings, just facts. What did you test, tweak, or practice today? (Engineering, Gear, Hobbies, Skills)*
+
+### 🧗‍♂️ Physical & Tactical (Climbing / Billiards / Gym)
+- **Activity:** 
+- **Data/Insights:** *(e.g., "Tested new cut-shot angle on bottom rail. Focus on wrist stability." / "Cleared the V3 project route.")*
+
+### 📸 Creative Technology (Camera Gear / Guitar / Media)
+- **Focus:** 
+- **Data/Insights:** *(e.g., "Tweaked 400Hz frequency on the amp sim preset." / "Tested Canon R8 ISO limits in low cafe lighting.")*
+
+---
+
+## 🧠 THE SYSTEM CLEANUP (5w6/OCD Evening Routine)
+> *Before shutting down, turn today's chaos into structured data. Use `[[Links]]` to connect your thoughts.*
+
+- **Today's Win:** 
+- **Brain Links to Process Later:** 
+	- *Example: Remember to read up on [[Snooker Cue Weight]] or check [[Canon APS-C Lenses]]*
+- **Status of Rule of 3:**

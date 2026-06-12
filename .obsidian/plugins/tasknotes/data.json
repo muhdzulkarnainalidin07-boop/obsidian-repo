@@ -248,7 +248,7 @@
     }
   ],
   "recurrenceMigrated": false,
-  "lastSeenVersion": "4.10.0",
+  "lastSeenVersion": "4.10.2",
   "showReleaseNotesOnUpdate": true,
   "showTrackedTasksInStatusBar": false,
   "autoStopTimeTrackingOnComplete": true,
@@ -485,26 +485,31 @@
   "enableDebugLogging": false,
   "pomodoroState": {
     "isRunning": false,
-    "timeRemaining": 1770,
-    "currentSession": {
-      "id": "1780752197783",
-      "startTime": "2026-06-06T21:23:17.783+08:00",
-      "plannedDuration": 30,
-      "type": "work",
-      "completed": false,
-      "activePeriods": [
-        {
-          "startTime": "2026-06-06T21:23:17.783+08:00",
-          "endTime": "2026-06-06T21:23:47.883+08:00"
-        }
-      ]
-    }
+    "timeRemaining": 1500
   },
-  "lastPomodoroDate": "2026-06-05",
+  "lastPomodoroDate": "2026-06-08",
   "googleCalendarSyncQueue": [
     {
       "taskPath": "TaskNotes/Tasks/kau gay.md",
       "requestedAt": 1780577172751,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "Planner/2.md",
+      "requestedAt": 1781018471022,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "TaskNotes/Tasks/Submit Design.md",
+      "requestedAt": 1781019692710,
+      "attempts": 0,
+      "lastError": "Google Calendar sync is not ready"
+    },
+    {
+      "taskPath": "Planner/1. Pool with Juseng and Justin.md",
+      "requestedAt": 1781063154068,
       "attempts": 0,
       "lastError": "Google Calendar sync is not ready"
     }
@@ -815,6 +820,22 @@
           "endTime": "2026-06-06T21:21:32.260+08:00"
         }
       ]
+    },
+    {
+      "id": "1780752197783",
+      "startTime": "2026-06-06T21:23:17.783+08:00",
+      "endTime": "2026-06-09T22:51:32.698+08:00",
+      "plannedDuration": 30,
+      "type": "work",
+      "completed": false,
+      "activePeriods": [
+        {
+          "startTime": "2026-06-06T21:23:17.783+08:00",
+          "endTime": "2026-06-06T21:23:47.883+08:00"
+        }
+      ]
     }
-  ]
+  ],
+  "checkForUpdatesOnStartup": true,
+  "lastNotifiedReleaseVersion": "4.11.0"
 }
