@@ -10,5 +10,6 @@
   "periodic-notes",
   "templater-obsidian",
   "dataview",
-  "quickadd"
+  "quickadd",
+  "obsidian-media-db-plugin"
 ]

@@ -8,49 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f771990b3fd3fc2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003 Pool/Dashboard.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dashboard"
-            }
-          },
-          {
             "id": "4266073f3d4f6320",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "004 Thoughts dump/Thoughts that need dumping.md",
-                "mode": "source",
-                "source": false
+                "file": "006 Library/Library Dashboard.base",
+                "viewName": "Series"
               },
-              "icon": "lucide-file",
-              "title": "Thoughts that need dumping"
-            }
-          },
-          {
-            "id": "a4ed4086ad699ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lonely.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lonely"
+              "icon": "lucide-layout-grid",
+              "title": "Library Dashboard"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,48 +228,47 @@
       "tasknotes:Create new task": false,
       "terminal:Open terminal": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a4ed4086ad699ae7",
+  "active": "87302625032567e0",
   "lastOpenFiles": [
-    "Lonely.md",
+    "006 Library/Library Dashboard.base",
+    "006 Library/Movies/Nimona (2023).md",
+    "006 Library/Series/Daredevil - Born Again (2025–).md",
+    "006 Library/Series/Daredevil (2015–2018).md",
+    "006 Library/Series/Ben 10 - Omniverse (2012–2014).md",
+    "006 Library/Series/Star Wars - Rebels (2014–2018).md",
+    "006 Library/Series/Amphibia (2019–2022).md",
+    "006 Library/Series/Gravity Falls (2012–2016).md",
+    "006 Library/Movies/How to Train Your Dragon (2025).md",
+    "006 Library/Movies/How to Train Your Dragon - The Hidden World (2019).md",
+    "006 Library/Movies/How to Train Your Dragon 2 (2014).md",
+    "006 Library/Movies/How to Train Your Dragon (2010).md",
+    "006 Library/Series/Kipo and the Age of Wonderbeasts (2020).md",
+    "006 Library/Series/Trollhunters - Tales of Arcadia (2016–2018).md",
+    "006 Library/Books/The Wheel of Osheim (2001).md",
     "004 Thoughts dump/Thoughts that need dumping.md",
-    "003 Pool/01 Sessions/2026-06-10 Session.md",
-    "003 Pool/02 Reviews/2026-24 Session.md",
-    "003 Pool/001 Dashboard.md",
-    "003 Pool/999 Meta/Drill Library.md",
+    "006 Library/Books/The Liar's Key (2015).md",
+    "006 Library/Books/The Red Queen's War Trilogy (2018).md",
+    "006 Library/Books/Prince of Fools (2001).md",
+    "006 Library/Books",
+    "006 Library/Series/Slugterra (2012–2016).md",
+    "006 Library/Series/The Dragon Prince (2018–2024).md",
+    "006 Library/Series/Ben 10 - Ultimate Alien (2010–2012).md",
+    "006 Library/Series/Ben 10 - Alien Force (2008–2010).md",
+    "006 Library/Series/Ben 10 (2005–2008).md",
+    "006 Library/Series/Star vs the Forces of Evil (2012–2019).md",
+    "006 Library/Series/The Owl House (2020–2023).md",
+    "006 Library/Series",
+    "006 Library/Movies",
+    "006 Library",
+    "Planner",
     "Untitled.canvas",
     "TaskNotes/Views/kanban-default.base",
-    "Untitled.base",
-    "002 Planner/1. Pool with Juseng and Justin.md",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "2026-06-10.md",
-    "002 Planner/2026-06-11.md",
-    "Planner/2026-06-11.md",
-    "Planner/2026-06-10.md",
-    "Planner",
-    "001 Uni/Uni.md",
-    "001 Uni/Main Units/MTH10013 Linear Algebra and Applications.md",
-    "001 Uni/Main Units/PHY10001 Energy and Motion.md",
-    "003 Pool/999 Templates/Weekly Review Template.md",
-    "003 Pool/999 Templates/Session Template.md",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/pomodoro-stats.base",
-    "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views",
-    "003 Pool/999 Meta/Setup Guide.md",
-    "003 Pool/Reviews/2026-06-10 Session.md",
-    "Pool/Reviews/YYYY-WW Review.md",
-    "003 Pool/Sessions/2026-06-07 Session.md",
-    "999 templates/Template.md",
-    "Canon APS-C Lenses.md",
-    "005 TaskNotes/Tasks/Submit Design.md",
-    "999 templates/Daily Planner.md",
-    "999 templates/Weekly daily planner.md"
+    "TaskNotes/Views/relationships.base"
   ]
 }

@@ -1,0 +1,23 @@
+views:
+  - type: cards
+    name: Series
+    filters:
+      and:
+        - file.inFolder("006 Library/Series")
+    image: note.image
+    imageAspectRatio: 1.55
+  - type: cards
+    name: Movies
+    filters:
+      and:
+        - file.inFolder("006 Library/Movies")
+    image: note.image
+    imageAspectRatio: 1.55
+    cardSize: 180
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - file.inFolder("006 Library/Books")
+    imageAspectRatio: 1.55
+    image: note.image
